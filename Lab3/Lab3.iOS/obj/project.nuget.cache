@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyESYoHRWFyJqdlYGrnnkUu8isYFZlYBLVxdt0gM1rVnkkdrrebSzMb9nnnQS1IDPun5tH25oq15qh7UjUch6Q==",
+  "success": true,
+  "projectFilePath": "/Users/olegternovij/Documents/React/lab5/Lab3/Lab3.iOS/Lab3.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/olegternovij/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/olegternovij/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/olegternovij/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
